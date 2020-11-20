@@ -7,6 +7,6 @@ export class HelloController {
   //constructor() {}
   @get('/hello')
   hello(): string {
-    return 'Hello world!';
+    return 'Hello world from Sanika!';
   }
 }
